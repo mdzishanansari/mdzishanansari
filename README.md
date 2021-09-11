@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @mdzishanansari
-- 👀 I’m interested in Artificial Intelligence & Autonomous Systems
-- 🌱 I’m currently learning Deep Learning and Data Analytics
-- 💞️ I’m looking to collaborate on Machine Learning, Deep Learning, Computer Vision, Data Science and Autonomous Systems
+- 👋 Hi there, I’m Zishan
+- 👀 I’m interested in Artificial Intelligence & Autonomous Systems.
+- 🌱 I’m currently learning everything related to AI & Autonomous Systems.
+- 💞️ I’m looking to collaborate on Machine Learning, Deep Learning, Computer Vision, Data Science and Autonomous Systems projects/reserach works.
 - 📫 How to reach me zmohd828@gmail.com
 
 <!---
